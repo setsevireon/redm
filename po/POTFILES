@@ -1,0 +1,4 @@
+data/dev.setsevireon.Redm.desktop.in
+data/dev.setsevireon.Redm.metainfo.xml.in
+data/dev.setsevireon.Redm.gschema.xml
+src/window.ui

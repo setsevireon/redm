@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=redm
+Exec=redm
+Icon=dev.setsevireon.Redm
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
